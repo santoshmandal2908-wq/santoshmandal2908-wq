@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=200&section=header&text=Santosh%20Mandal&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=From%20Nepal%20to%20the%20World&descAlignY=55&descSize=20"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Namaste+from+Nepal!+%F0%9F%87%B3%F0%9F%87%B5;Full+Stack+%7C+AI%2FML+%7C+Cloud+%7C+Security;BSc+CS+Year+2+(2025-2028);Building+Production-Ready+Solutions!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Namaste+from+Nepal!+%F0%9F%87%B3%F0%9F%87%B5;Full+Stack+%7C+AI%2FML+%7C+Cloud+%7C+Security;BSc+(Hons)+CS+Year+2+(2025-2028);Building+Production-Ready+Solutions!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=santoshmandal2908-wq&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/santoshmandal2908-wq?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/badge/Nepal-%F0%9F%87%B3%F0%9F%87%B5-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Year_2-2026-ff69b4?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=santoshmandal2908-wq&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/santoshmandal2908-wq?style=for-the-badge&color=blue&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/Location-Nepal_%F0%9F%87%B3%F0%9F%87%B5-success?style=for-the-badge&logo=googlemaps"/>
+<img src="https://img.shields.io/badge/Year_2-2026-ff69b4?style=for-the-badge&logo=graduation-cap"/>
 </p>
 
 <p>
@@ -23,20 +23,20 @@
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 name: Santosh Mandal
 location: Nepal ????
 education:
-  degree: BSc (Hons) Computer Science
-  journey: 2025 - 2028
-  current: Year 2 (2026)
+  degree: "BSc (Hons) Computer Science"
+  journey: "2025 - 2028"
+  current: "Year 2 (2026)"
 
 role:
   - Full Stack Developer
   - AI/ML Engineer (Learning)
-  - Cloud Enthusiast  
+  - Cloud Enthusiast
   - Cybersecurity Explorer
 
 learning_path:
@@ -49,22 +49,22 @@ learning_path:
       - Computing Fundamentals
       
   year_2_2026:
-    status: ?? Current
-    focus:
+    status: ?? Current Focus
+    topics:
       - Advanced Java & Spring Boot
-      - AI/ML Engineering
+      - AI/ML with TensorFlow
       - Cloud Computing (AWS, Azure)
       - Cybersecurity (Self-Study)
       
   year_3_2027:
-    status: ?? Planning
+    status: ?? Planned
     goals:
       - System Design
       - Real Internships
       - Production Projects
       - Full Specialization
 
-motto: "From Nepal ???? to the world ?? - through code! ??"
+motto: "From Nepal to the world - through code! ??"
 ```
 
 <br clear="right"/>
@@ -80,7 +80,7 @@ motto: "From Nepal ???? to the world ?? - through code! ??"
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Development  
+### Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -114,8 +114,8 @@ motto: "From Nepal ???? to the world ?? - through code! ??"
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshmandal2908-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshmandal2908-wq&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshmandal2908-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshmandal2908-wq&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
@@ -138,18 +138,21 @@ motto: "From Nepal ???? to the world ?? - through code! ??"
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshmandal2908-wq&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ---
 
-## Learning Journey Timeline
+## Learning Journey (2025-2028)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ```mermaid
 timeline
-    title My 3-Year CS Journey (2025-2028)
+    title My 3-Year CS Journey
     
     2025 Year 1 : BSc CS Started
                 : Frontend Development
-                : Python Automation  
+                : Python Automation
                 : Java Intermediate
                 : Year 1 Complete ?
     
@@ -174,18 +177,38 @@ timeline
 
 ## Current Goals (2026)
 
-- ?? Master Advanced Java & Spring Boot
-- ?? Build AI/ML projects with TensorFlow
-- ?? Complete AWS Cloud practitioner  
-- ?? Learn ethical hacking basics
-- ?? Target tech internship (2027)
-- ?? Contribute to open source
+<table>
+<tr>
+<td width="50%">
+
+### Academic Focus
+- ?? Master Spring Boot & Microservices
+- ?? Build AI/ML projects
+- ?? Complete AWS fundamentals
+- ?? Learn ethical hacking
+- ?? Advanced DSA
+
+</td>
+<td width="50%">
+
+### Career Goals
+- ?? Build 10 production apps
+- ?? Deploy 5 AI/ML models
 - ?? Write technical blogs
-- ?? Build 10 production-ready apps
+- ?? Open source contributions
+- ?? Target internship (2027)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <table>
 <tr>
@@ -196,7 +219,7 @@ timeline
 
 - Responsive UI/UX
 - REST APIs
-- Database integration
+- Microservices
 - Cloud deployment
 
 `React` `Spring Boot` `PostgreSQL` `AWS`
@@ -204,13 +227,13 @@ timeline
 </td>
 <td width="50%">
 
-### AI/ML Projects  
-**Python & TensorFlow**
+### AI/ML Projects
+**Python + TensorFlow**
 
-- Machine learning models
+- ML models
 - Data analysis
-- Predictive algorithms
-- Model deployment
+- Predictions
+- API deployment
 
 `Python` `TensorFlow` `PyTorch` `FastAPI`
 
@@ -228,20 +251,20 @@ timeline
 - CI/CD pipelines
 - Infrastructure as Code
 
-`Docker` `Kubernetes` `AWS` `Azure`
+`Docker` `Kubernetes` `AWS` `Terraform`
 
 </td>
 <td width="50%">
 
 ### Security Tools
-**Kali Linux Projects**
+**Kali Linux**
 
 - Network scanning
-- Vulnerability assessment
+- Vulnerability testing
 - Automation scripts
 - Penetration testing
 
-`Kali Linux` `Python` `Bash` `Metasploit`
+`Kali Linux` `Python` `Metasploit`
 
 </td>
 </tr>
@@ -266,9 +289,11 @@ DSA & Problem Solving                                50%
 
 <div align="center">
 
-> **"Quality over quantity. Production-ready over practice code."**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+> **"Quality over quantity. Production-ready over practice!"**
 >
-> **"Learn by building. Build by learning."**  
+> **"Learn by building. Build by learning."**
 >
 > **"From Nepal ???? to the world ?? - through code!"**
 
@@ -280,22 +305,24 @@ DSA & Problem Solving                                50%
 
 <div align="center">
 
-### Let\'s Build Something Amazing Together!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santoshmandal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmandal2908@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/santoshmandal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santoshmandal2908-wq)
+### Let\'s Build Something Amazing!
+
+<a href="https://linkedin.com/in/santoshmandal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:santoshmandal2908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/santoshmandal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://github.com/santoshmandal2908-wq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### Open For
 
-**Internships**   **Collaborations**   **Open Source**   **Freelance Projects**   **Learning Together**
+**Internships**   **Collaborations**   **Open Source**   **Freelance**   **Learning Together**
 
 ---
 
-### Thank you for visiting! ??
+### From the Mountains of Nepal to Your Screen ?????
 
-<h3>From the mountains of Nepal ??? to your screen ??</h3>
+<h3>Thank you for visiting! ??</h3>
 <h3>Let\'s code the future together! ??</h3>
 
 </div>
@@ -307,6 +334,7 @@ DSA & Problem Solving                                50%
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Last_Updated-October_2026-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Last_Updated-October_2026-success?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Made_with-??_in_Nepal-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BSc_(Hons)_CS-2025--2028-blue?style=flat-square&logo=graduation-cap"/>
 </div>
